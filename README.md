@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="https://github.com/JoyOfTech/test-open-data-issues/blob/master/media/Open-Data-Banner.png"></p>
+<p align="center"><img width=100% src="https://github.com/DCgov/opendatadc-requests/blob/master/media/Open-Data-Banner.png"></p>
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/DCgov/enterprise-dataset-inventory/master)
 
